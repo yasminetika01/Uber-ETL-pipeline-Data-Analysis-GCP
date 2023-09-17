@@ -5,7 +5,7 @@ This project showcases the handling and transformation of raw Uber data hosted i
 ## Architecture 
 <img src="architecture.jpg">
 
-## Technology Used
+## Technologies Used
 - Programming Language - Python
 
 Google Cloud Platform
